@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React 12
+          Learn React 123
         </a>
         <Button color="primary">Hello World</Button>
       </header>
