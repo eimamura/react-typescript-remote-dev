@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React git
+          Learn React git4
         </a>
         <Button color="primary">Hello World</Button>
       </header>
